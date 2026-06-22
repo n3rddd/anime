@@ -62,10 +62,9 @@ Help the project become sustainable by sponsoring us on <a target="_blank" href=
   <tbody>
     <tr>
       <td>
-        <a target="_blank" href="https://www.testmuai.com/?utm_medium=sponsor&utm_source=animejs">
+        <a target="_blank" href="https://github.com/sponsors/juliangarnier">
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="./assets/sponsors/testmu-ai-logomark.png?v=200126">
-            <img align="center" src="./assets/sponsors/testmu-ai-logomark-dark.png?v=200126" width="141">
+            <img align="center" src="./assets/sponsors/placeholder-small.png?v=200126" width="141">
           </picture>
         </a>
       </td>
